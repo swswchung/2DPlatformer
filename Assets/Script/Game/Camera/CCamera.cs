@@ -1,0 +1,1 @@
+﻿using UnityEngine;using System.Collections;public class CCamera : MonoBehaviour {    protected Transform _mainCamera;	// Use this for initialization	protected virtual void Start () {        _mainCamera = GameObject.Find("MainCamera").GetComponent<Transform>();	}		protected virtual void OnTriggerExit2D(Collider2D col)    {            }}

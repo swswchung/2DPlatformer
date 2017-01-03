@@ -1,0 +1,2565 @@
+fileFormatVersion: 2
+guid: 9bdab75d61c52124090cf85a88f0270c
+timeCreated: 1474010021
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: sonic (2)_0
+    21300002: sonic (2)_1
+    21300004: sonic (2)_2
+    21300006: sonic (2)_3
+    21300008: sonic (2)_4
+    21300010: sonic (2)_5
+    21300012: sonic (2)_6
+    21300014: sonic (2)_7
+    21300016: sonic (2)_8
+    21300018: sonic (2)_9
+    21300020: sonic (2)_10
+    21300022: sonic (2)_11
+    21300024: sonic (2)_12
+    21300026: sonic (2)_13
+    21300028: sonic (2)_14
+    21300030: sonic (2)_15
+    21300032: sonic (2)_16
+    21300034: sonic (2)_17
+    21300036: sonic (2)_18
+    21300038: sonic (2)_19
+    21300040: sonic (2)_20
+    21300042: sonic (2)_21
+    21300044: sonic (2)_22
+    21300046: sonic (2)_23
+    21300048: sonic (2)_24
+    21300050: sonic (2)_25
+    21300052: sonic (2)_26
+    21300054: sonic (2)_27
+    21300056: sonic (2)_28
+    21300058: sonic (2)_29
+    21300060: sonic (2)_30
+    21300062: sonic (2)_31
+    21300064: sonic (2)_32
+    21300066: sonic (2)_33
+    21300068: sonic (2)_34
+    21300070: sonic (2)_35
+    21300072: sonic (2)_36
+    21300074: sonic (2)_37
+    21300076: sonic (2)_38
+    21300078: sonic (2)_39
+    21300080: sonic (2)_40
+    21300082: sonic (2)_41
+    21300084: sonic (2)_42
+    21300086: sonic (2)_43
+    21300088: sonic (2)_44
+    21300090: sonic (2)_45
+    21300092: sonic (2)_46
+    21300094: sonic (2)_47
+    21300096: sonic (2)_48
+    21300098: sonic (2)_49
+    21300100: sonic (2)_50
+    21300102: sonic (2)_51
+    21300104: sonic (2)_52
+    21300106: sonic (2)_53
+    21300108: sonic (2)_54
+    21300110: sonic (2)_55
+    21300112: sonic (2)_56
+    21300114: sonic (2)_57
+    21300116: sonic (2)_58
+    21300118: sonic (2)_59
+    21300120: sonic (2)_60
+    21300122: sonic (2)_61
+    21300124: sonic (2)_62
+    21300126: sonic (2)_63
+    21300128: sonic (2)_64
+    21300130: sonic (2)_65
+    21300132: sonic (2)_66
+    21300134: sonic (2)_67
+    21300136: sonic (2)_68
+    21300138: sonic (2)_69
+    21300140: sonic (2)_70
+    21300142: sonic (2)_71
+    21300144: sonic (2)_72
+    21300146: sonic (2)_73
+    21300148: sonic (2)_74
+    21300150: sonic (2)_75
+    21300152: sonic (2)_76
+    21300154: sonic (2)_77
+    21300156: sonic (2)_78
+    21300158: sonic (2)_79
+    21300160: sonic (2)_80
+    21300162: sonic (2)_81
+    21300164: sonic (2)_82
+    21300166: sonic (2)_83
+    21300168: sonic (2)_84
+    21300170: sonic (2)_85
+    21300172: sonic (2)_86
+    21300174: sonic (2)_87
+    21300176: sonic (2)_88
+    21300178: sonic (2)_89
+    21300180: sonic (2)_90
+    21300182: sonic (2)_91
+    21300184: sonic (2)_92
+    21300186: sonic (2)_93
+    21300188: sonic (2)_94
+    21300190: sonic (2)_95
+    21300192: sonic (2)_96
+    21300194: sonic (2)_97
+    21300196: sonic (2)_98
+    21300198: sonic (2)_99
+    21300200: sonic (2)_100
+    21300202: sonic (2)_101
+    21300204: sonic (2)_102
+    21300206: sonic (2)_103
+    21300208: sonic (2)_104
+    21300210: sonic (2)_105
+    21300212: sonic (2)_106
+    21300214: sonic (2)_107
+    21300216: sonic (2)_108
+    21300218: sonic (2)_109
+    21300220: sonic (2)_110
+    21300222: sonic (2)_111
+    21300224: sonic (2)_112
+    21300226: sonic (2)_113
+    21300228: sonic (2)_114
+    21300230: sonic (2)_115
+    21300232: sonic (2)_116
+    21300234: sonic (2)_117
+    21300236: sonic (2)_118
+    21300238: sonic (2)_119
+    21300240: sonic (2)_120
+    21300242: sonic (2)_121
+    21300244: sonic (2)_122
+    21300246: sonic (2)_123
+    21300248: sonic (2)_124
+    21300250: sonic (2)_125
+    21300252: sonic (2)_126
+    21300254: sonic (2)_127
+    21300256: sonic (2)_128
+    21300258: sonic (2)_129
+    21300260: sonic (2)_130
+    21300262: sonic (2)_131
+    21300264: sonic (2)_132
+    21300266: sonic (2)_133
+    21300268: sonic (2)_134
+    21300270: sonic (2)_135
+    21300272: sonic (2)_136
+    21300274: sonic (2)_137
+    21300276: sonic (2)_138
+    21300278: sonic (2)_139
+    21300280: sonic (2)_140
+    21300282: sonic (2)_141
+    21300284: sonic (2)_142
+    21300286: sonic (2)_143
+    21300288: sonic (2)_144
+    21300290: sonic (2)_145
+    21300292: sonic (2)_146
+    21300294: sonic (2)_147
+    21300296: sonic (2)_148
+    21300298: sonic (2)_149
+    21300300: sonic (2)_150
+    21300302: sonic (2)_151
+    21300304: sonic (2)_152
+    21300306: sonic (2)_153
+    21300308: sonic (2)_154
+    21300310: sonic (2)_155
+    21300312: sonic (2)_156
+    21300314: sonic (2)_157
+    21300316: sonic (2)_158
+    21300318: sonic (2)_159
+    21300320: sonic (2)_160
+    21300322: sonic (2)_161
+    21300324: sonic (2)_162
+    21300326: sonic (2)_163
+    21300328: sonic (2)_164
+    21300330: sonic (2)_165
+    21300332: sonic (2)_166
+    21300334: sonic (2)_167
+    21300336: sonic (2)_168
+    21300338: sonic (2)_169
+    21300340: sonic (2)_170
+    21300342: sonic (2)_171
+    21300344: sonic (2)_172
+    21300346: sonic (2)_173
+    21300348: sonic (2)_174
+    21300350: sonic (2)_175
+    21300352: sonic (2)_176
+    21300354: sonic (2)_177
+    21300356: sonic (2)_178
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 25
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sonic (2)_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1145
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_1
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1145
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_2
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1145
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_3
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1145
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_4
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1145
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1145
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_6
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1145
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_7
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1145
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_8
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1145
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_9
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1145
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_10
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1145
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_11
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1145
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_12
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1145
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_13
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1097
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_14
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1097
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_15
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1097
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_16
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1097
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_17
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1097
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_18
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1097
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_19
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1097
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_20
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1097
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_21
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1097
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_22
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1097
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_23
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1097
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_24
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1097
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_25
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1047
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_26
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1066
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_27
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1047
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_28
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1047
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_29
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1047
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_30
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1047
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1047
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_32
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1047
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_33
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1047
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_34
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1047
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_35
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1047
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_36
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1047
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_37
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1047
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_38
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 998
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_39
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 998
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_40
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 998
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_41
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 998
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_42
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 998
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_43
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 998
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_44
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 998
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_45
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 998
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_46
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 998
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_47
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 998
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_48
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 998
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_49
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 948
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_50
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 948
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_51
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 948
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_52
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 948
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_53
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 948
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_54
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 948
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_55
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 948
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_56
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 948
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_57
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 948
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_58
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 948
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_59
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 948
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_60
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 895
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_61
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 895
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_62
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 895
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_63
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 895
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_64
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 895
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_65
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 895
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_66
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 895
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_67
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 895
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_68
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 895
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_69
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 895
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_70
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 895
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_71
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 895
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_72
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 895
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_73
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 839
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_74
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 839
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_75
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 839
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_76
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 839
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_77
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 839
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_78
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 839
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_79
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 839
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_80
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 839
+        width: 47
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_81
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 839
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_82
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 839
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_83
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 784
+        width: 48
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_84
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 784
+        width: 52
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_85
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 784
+        width: 53
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_86
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 784
+        width: 48
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_87
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 784
+        width: 23
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_88
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 784
+        width: 40
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_89
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 784
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_90
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 784
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_91
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 784
+        width: 43
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_92
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 737
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_93
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 737
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_94
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 737
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_95
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 737
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_96
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 737
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_97
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 737
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_98
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 737
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_99
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 737
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_100
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 737
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_101
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 737
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_102
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 737
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_103
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 737
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_104
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 688
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_105
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 688
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_106
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 688
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_107
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 688
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_108
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 688
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_109
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 688
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_110
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 688
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_111
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 688
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_112
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 688
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_113
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 688
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_114
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 688
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_115
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 637
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_116
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 637
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_117
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 637
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_118
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 637
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_119
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 637
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_120
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 637
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_121
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 637
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_122
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 637
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_123
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 637
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_124
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 637
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_125
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 589
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_126
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 589
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_127
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 589
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_128
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 589
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_129
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 589
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_130
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 589
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_131
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 589
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_132
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 589
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_133
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 589
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_134
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 589
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_135
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 544
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_136
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 544
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_137
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 544
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_138
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 544
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_139
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 544
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_140
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 544
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_141
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 544
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_142
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 544
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_143
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 545
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_144
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 544
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_145
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 544
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_146
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 489
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_147
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 489
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_148
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 489
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_149
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 489
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_150
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 489
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_151
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 489
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_152
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 489
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_153
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 489
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_154
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 489
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_155
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 489
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_156
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 443
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_157
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 443
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_158
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 443
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_159
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 443
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_160
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 443
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_161
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 443
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_162
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 443
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_163
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 443
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_164
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 443
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_165
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 443
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_166
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 443
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_167
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 443
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_168
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 443
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_169
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 388
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_170
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 393
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_171
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 396
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_172
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 383
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_173
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 383
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_174
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 383
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_175
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 383
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_176
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 388
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_177
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 388
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic (2)_178
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 387
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

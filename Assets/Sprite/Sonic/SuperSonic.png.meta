@@ -1,0 +1,1750 @@
+fileFormatVersion: 2
+guid: 470495f1f9ebeca4e9152eb7809be72a
+timeCreated: 1474177905
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SuperSonic_0
+    21300002: SuperSonic_1
+    21300004: SuperSonic_2
+    21300006: SuperSonic_3
+    21300008: SuperSonic_4
+    21300010: SuperSonic_5
+    21300012: SuperSonic_6
+    21300014: SuperSonic_7
+    21300016: SuperSonic_8
+    21300018: SuperSonic_9
+    21300020: SuperSonic_10
+    21300022: SuperSonic_11
+    21300024: SuperSonic_12
+    21300026: SuperSonic_13
+    21300028: SuperSonic_14
+    21300030: SuperSonic_15
+    21300032: SuperSonic_16
+    21300034: SuperSonic_17
+    21300036: SuperSonic_18
+    21300038: SuperSonic_19
+    21300040: SuperSonic_20
+    21300042: SuperSonic_21
+    21300044: SuperSonic_22
+    21300046: SuperSonic_23
+    21300048: SuperSonic_24
+    21300050: SuperSonic_25
+    21300052: SuperSonic_26
+    21300054: SuperSonic_27
+    21300056: SuperSonic_28
+    21300058: SuperSonic_29
+    21300060: SuperSonic_30
+    21300062: SuperSonic_31
+    21300064: SuperSonic_32
+    21300066: SuperSonic_33
+    21300068: SuperSonic_34
+    21300070: SuperSonic_35
+    21300072: SuperSonic_36
+    21300074: SuperSonic_37
+    21300076: SuperSonic_38
+    21300078: SuperSonic_39
+    21300080: SuperSonic_40
+    21300082: SuperSonic_41
+    21300084: SuperSonic_42
+    21300086: SuperSonic_43
+    21300088: SuperSonic_44
+    21300090: SuperSonic_45
+    21300092: SuperSonic_46
+    21300094: SuperSonic_47
+    21300096: SuperSonic_48
+    21300098: SuperSonic_49
+    21300100: SuperSonic_50
+    21300102: SuperSonic_51
+    21300104: SuperSonic_52
+    21300106: SuperSonic_53
+    21300108: SuperSonic_54
+    21300110: SuperSonic_55
+    21300112: SuperSonic_56
+    21300114: SuperSonic_57
+    21300116: SuperSonic_58
+    21300118: SuperSonic_59
+    21300120: SuperSonic_60
+    21300122: SuperSonic_61
+    21300124: SuperSonic_62
+    21300126: SuperSonic_63
+    21300128: SuperSonic_64
+    21300130: SuperSonic_65
+    21300132: SuperSonic_66
+    21300134: SuperSonic_67
+    21300136: SuperSonic_68
+    21300138: SuperSonic_69
+    21300140: SuperSonic_70
+    21300142: SuperSonic_71
+    21300144: SuperSonic_72
+    21300146: SuperSonic_73
+    21300148: SuperSonic_74
+    21300150: SuperSonic_75
+    21300152: SuperSonic_76
+    21300154: SuperSonic_77
+    21300156: SuperSonic_78
+    21300158: SuperSonic_79
+    21300160: SuperSonic_80
+    21300162: SuperSonic_81
+    21300164: SuperSonic_82
+    21300166: SuperSonic_83
+    21300168: SuperSonic_84
+    21300170: SuperSonic_85
+    21300172: SuperSonic_86
+    21300174: SuperSonic_87
+    21300176: SuperSonic_88
+    21300178: SuperSonic_89
+    21300180: SuperSonic_90
+    21300182: SuperSonic_91
+    21300184: SuperSonic_92
+    21300186: SuperSonic_93
+    21300188: SuperSonic_94
+    21300190: SuperSonic_95
+    21300192: SuperSonic_96
+    21300194: SuperSonic_97
+    21300196: SuperSonic_98
+    21300198: SuperSonic_99
+    21300200: SuperSonic_100
+    21300202: SuperSonic_101
+    21300204: SuperSonic_102
+    21300206: SuperSonic_103
+    21300208: SuperSonic_106
+    21300210: SuperSonic_107
+    21300212: SuperSonic_108
+    21300214: SuperSonic_109
+    21300216: SuperSonic_110
+    21300218: SuperSonic_111
+    21300220: SuperSonic_112
+    21300222: SuperSonic_113
+    21300224: SuperSonic_114
+    21300226: SuperSonic_115
+    21300228: SuperSonic_116
+    21300230: SuperSonic_117
+    21300232: SuperSonic_118
+    21300234: SuperSonic_119
+    21300236: SuperSonic_120
+    21300238: SuperSonic_130
+    21300240: SuperSonic_131
+    21300242: SuperSonic_132
+    21300244: SuperSonic_133
+    21300246: SuperSonic_134
+    21300248: SuperSonic_135
+    21300250: SuperSonic_136
+    21300252: SuperSonic_137
+    21300254: SuperSonic_138
+    21300256: SuperSonic_139
+    21300258: SuperSonic_140
+    21300260: SuperSonic_141
+    21300262: SuperSonic_142
+    21300264: SuperSonic_143
+    21300266: SuperSonic_144
+    21300268: SuperSonic_145
+    21300270: SuperSonic_146
+    21300272: SuperSonic_147
+    21300274: SuperSonic_148
+    21300276: SuperSonic_149
+    21300278: SuperSonic_150
+    21300280: SuperSonic_151
+    21300282: SuperSonic_152
+    21300284: SuperSonic_153
+    21300286: SuperSonic_154
+    21300288: SuperSonic_155
+    21300290: SuperSonic_156
+    21300292: SuperSonic_157
+    21300294: SuperSonic_158
+    21300296: SuperSonic_159
+    21300298: SuperSonic_160
+    21300300: SuperSonic_161
+    21300302: SuperSonic_162
+    21300304: SuperSonic_163
+    21300306: SuperSonic_164
+    21300308: SuperSonic_165
+    21300310: SuperSonic_166
+    21300312: SuperSonic_167
+    21300314: SuperSonic_168
+    21300316: SuperSonic_169
+    21300318: SuperSonic_170
+    21300320: SuperSonic_171
+    21300322: SuperSonic_181
+    21300324: SuperSonic_182
+    21300326: SuperSonic_183
+    21300328: SuperSonic_184
+    21300330: SuperSonic_185
+    21300332: SuperSonic_186
+    21300334: SuperSonic_187
+    21300336: SuperSonic_188
+    21300338: SuperSonic_189
+    21300340: SuperSonic_190
+    21300342: SuperSonic_191
+    21300344: SuperSonic_192
+    21300346: SuperSonic_193
+    21300348: SuperSonic_194
+    21300350: SuperSonic_195
+    21300352: SuperSonic_196
+    21300354: SuperSonic_197
+    21300356: SuperSonic_198
+    21300358: SuperSonic_199
+    21300360: SuperSonic_200
+    21300362: SuperSonic_201
+    21300364: SuperSonic_202
+    21300366: SuperSonic_203
+    21300368: SuperSonic_204
+    21300370: SuperSonic_205
+    21300372: SuperSonic_206
+    21300374: SuperSonic_207
+    21300376: SuperSonic_208
+    21300378: SuperSonic_209
+    21300380: SuperSonic_210
+    21300382: SuperSonic_211
+    21300384: SuperSonic_212
+    21300386: SuperSonic_213
+    21300388: SuperSonic_214
+    21300390: SuperSonic_215
+    21300392: SuperSonic_216
+    21300394: SuperSonic_217
+    21300396: SuperSonic_218
+    21300398: SuperSonic_219
+    21300400: SuperSonic_220
+    21300402: SuperSonic_221
+    21300404: SuperSonic_222
+    21300406: SuperSonic_223
+    21300408: SuperSonic_224
+    21300410: SuperSonic_225
+    21300412: SuperSonic_226
+    21300414: SuperSonic_227
+    21300416: SuperSonic_228
+    21300418: SuperSonic_229
+    21300420: SuperSonic_230
+    21300422: SuperSonic_231
+    21300424: SuperSonic_232
+    21300426: SuperSonic_233
+    21300428: SuperSonic_234
+    21300430: SuperSonic_235
+    21300432: SuperSonic_236
+    21300434: SuperSonic_237
+    21300436: SuperSonic_238
+    21300438: SuperSonic_239
+    21300440: SuperSonic_240
+    21300442: SuperSonic_104
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 25
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SuperSonic_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 405
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 405
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 405
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_3
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 405
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_4
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 405
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_5
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 405
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_6
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 406
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_7
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 405
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_8
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 405
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_9
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 404
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_10
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 404
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_11
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 404
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_12
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 404
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_13
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 404
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_14
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 404
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_15
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 354
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_16
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 354
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_17
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 354
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_18
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 352
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_19
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 352
+        width: 50
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_20
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 352
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_21
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 352
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_22
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 352
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_23
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 352
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_24
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 352
+        width: 51
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_25
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 352
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_26
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 352
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_27
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 299
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_28
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 299
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_29
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 299
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_30
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 299
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_31
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 299
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_32
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 299
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_33
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 299
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_34
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 299
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_35
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 299
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_36
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 299
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_37
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 299
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_38
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 298
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_39
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 296
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_40
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 296
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_41
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 296
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_42
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 296
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_43
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 245
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_44
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 244
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_45
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 244
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_46
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 243
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_47
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 243
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_48
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 242
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_49
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 244
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_50
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 244
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_51
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 244
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_52
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 243
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_53
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 243
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_54
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 242
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_55
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 241
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_56
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 241
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_57
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 241
+        width: 50
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_58
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 189
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_59
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 189
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_60
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 189
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_61
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 189
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_62
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 189
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_63
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 189
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_64
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 188
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_65
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 187
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_66
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 187
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_67
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 186
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_68
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 186
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_69
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 186
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_70
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 186
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_71
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 186
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_72
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 185
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_73
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 185
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_74
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 185
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_75
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 125
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_76
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 125
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_77
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 125
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_78
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 126
+        width: 43
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_79
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 125
+        width: 43
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_80
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 123
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_81
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 122
+        width: 31
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_82
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 123
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_83
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 122
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_84
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 120
+        width: 31
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_85
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 120
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_86
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 120
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_87
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 121
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_88
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 121
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_89
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 71
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_90
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 71
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_91
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 72
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_92
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 73
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_93
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 72
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_94
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 72
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_95
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 72
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_96
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 72
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_97
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 72
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_106
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_107
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 59
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_108
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 59
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_110
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 59
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_111
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 38
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_112
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 39
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_114
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 38
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_115
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 38
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_195
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 8
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_104
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 59
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_98
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 37
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_99
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 38
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_100
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 37
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_101
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 38
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperSonic_102
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 38
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
